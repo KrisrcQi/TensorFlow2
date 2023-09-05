@@ -1,2 +1,15 @@
 # TensorFlow2
-TensorFlow2 practice with FFN and CNN in MNIST database
+
+Imperial College London TensorFlow2 practices
+
+## Models
+Feedforward Network
+Conventional Neural Network
+
+## Data
+Fashion-MNIST dataset
+MNIST dataset of images of handwritten digits
+Diabetes dataset
+Iris dataset
+
+
