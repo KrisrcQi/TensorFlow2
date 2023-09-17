@@ -11,6 +11,7 @@ Imperial College London TensorFlow2 practices
  - MNIST dataset of images of handwritten digits
  - Diabetes dataset
  - Iris dataset
+ - EuroSat dataset
 
 ## Keras pre-trained models resources
 1. [Keras application page](https://keras.io/api/applications/)
