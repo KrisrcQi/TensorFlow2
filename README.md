@@ -10,7 +10,7 @@ Imperial College London TensorFlow2 practices
  - Fashion-MNIST dataset
  - MNIST dataset of images of handwritten digits
  - Diabetes dataset
- - Iris dataset
+ - [Iris dataset](https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html)
  - [EuroSat dataset](https://github.com/phelber/EuroSAT)
 
 ## Keras pre-trained models resources
