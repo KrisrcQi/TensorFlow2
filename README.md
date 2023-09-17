@@ -14,4 +14,5 @@ Imperial College London TensorFlow2 practices
 
 ## Keras pre-trained models resources
 Keras application page: https://keras.io/api/applications/
+Tensorflow Hub: tensorflow.org/hub
 
