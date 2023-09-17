@@ -13,7 +13,7 @@ Imperial College London TensorFlow2 practices
  - Iris dataset
 
 ## Keras pre-trained models resources
-Keras application page: https://keras.io/api/applications/
-Tensorflow Hub: tensorflow.org/hub
+1. Keras application page: https://keras.io/api/applications/
+2. Tensorflow Hub: tensorflow.org/hub
 
 
